@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Text:ital@0;1&family=Tilt+Prism&display=swap');
+
+
 .img-circle {
   width: 100px;
   height: 100px;
@@ -7,14 +10,14 @@
 }
 
 h1 {
-  font-family: 'Roboto', sans-serif;
+  font-family: "Tilt Prism", sans-serif;
   font-weight: 900;
   font-size: 32px;
   color: #575F7D;
 }
 
 h2, h3 {
-  font-family: 'Roboto', sans-serif;
+  font-family: "Tilt Prism", sans-serif;
   font-weight: 900;
   font-size: 26px;
   color: #575F7D;
@@ -23,7 +26,7 @@ h2, h3 {
 body {
   background: linear-gradient(to bottom, #ff7e5f, #feb47b);
   color: #575F7D;
-  font-family: 'Roboto', sans-serif;
+  font-family: "DM Serif Text", serif;
   font-optical-sizing: auto;
   font-weight: lighter;
   font-size: 20px;
